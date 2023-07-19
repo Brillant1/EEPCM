@@ -1,0 +1,106 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+body{
+ /* background-color:lightyellow;*/
+}
+.tout
+  {
+    width: 100%
+    
+  }
+  .bible11
+  {
+    float: left;
+  }
+  .bible22
+  {
+    float: right;
+  }
+  .left
+  {
+    width: 70%;
+    border-right:5px solid green;
+    color: solid blue;
+    text-decoration: underline bold;
+    height: 500px;
+    /*border-bottom: 5px solid green;*/
+    float: left;
+    box-sizing: border-box;
+    text-align: center;
+    margin-bottom: 100px;
+
+  }
+  .left1 h4,.right h4
+  {
+    color: white;
+  }
+   .envoi
+  {
+    background-color: rgba("25,15,55,0.5");
+    border-radius: 5px solid yellow;
+  }
+  .right
+  {
+    float: right;
+    width: 30%;
+    height: 500px;
+    /*border-bottom: 5px solid green;*/
+    border-right: 5px solid green;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  .right textarea
+  {
+    width: 70%;
+    height: 150px;
+    background-color:orange;
+    border-radius: 5px solid red;
+    color: solid black;
+    font-weight: bold;
+    font-size: 50px;
+  }
+  
+  .left p
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:fushia;
+    font-size: 30px;
+    font-family: sans-serif;
+
+  }
+  
+  .mail
+  {
+    border-radius:6px;
+    background-color: lightyellow;
+    width: 150px;
+    height: 25px;
+  }
+  .envoi{
+    height: 40px;
+    background-color:silver;
+    font-size: 15px;
+    font-weight: bolder;
+    width: 170px;
+  }
+  div h1{
+    height: 150px;
+    background-color:silver;
+  }
+  .histoire
+  {
+    font-size: 25px;
+    color:black;
+
+  }
+  textarea
+  {
+    color:blue;
+    font-size:20px;
+    font-weight: bold;
+  }
+  
